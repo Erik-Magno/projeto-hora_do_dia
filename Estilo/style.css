@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(70, 142, 236);
+    font: bolder 20pt Arial;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+h1{
+    font: bolder 1.5em Arial;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif; 
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+
+}
+div{
+    text-align: center;
+    padding: 5px;
+
+}
+footer{
+    color: white;
+    text-align: center;
+    
+    font: bolder 20pt Arial;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+
+}
